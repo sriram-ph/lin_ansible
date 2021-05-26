@@ -1,0 +1,6 @@
+---
+- name: Printing Galaxy
+  hosts: all
+  gather_facts: true
+  roles:
+    - java
