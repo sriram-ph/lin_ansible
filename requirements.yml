@@ -1,2 +1,5 @@
-- src: https://github.com/geerlingguy/ansible-role-java
-  name: java
+- src: https://github.com/bertvv/ansible-role-mariadb
+  name: mariadb
+
+- src: https://github.com/chusiang/wordpress.ansible.role
+  name: wordpress

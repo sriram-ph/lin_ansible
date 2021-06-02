@@ -1,0 +1,9 @@
+# (C) Copyright 2021 Hewlett Packard Enterprise Development LP
+- name: Install WordPress
+  hosts: all
+  remote_user: root
+  # remote_user: user
+  # sudo: yes
+
+  roles:
+    - wordpress
