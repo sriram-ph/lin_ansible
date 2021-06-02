@@ -1,4 +1,4 @@
-- src: https://github.com/bertvv/ansible-role-mariadb
+- src: https://github.com/adfinis-sygroup/ansible-role-mariadb
   name: mariadb
 
 - src: https://github.com/chusiang/wordpress.ansible.role
