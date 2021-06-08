@@ -1,5 +1,3 @@
-- src: https://github.com/adfinis-sygroup/ansible-role-mariadb
+- src: https://github.com/sriram-ph/mariadb
   name: mariadb-galaxy
 
-- src: https://github.com/chusiang/wordpress.ansible.role
-  name: wordpress-galaxy

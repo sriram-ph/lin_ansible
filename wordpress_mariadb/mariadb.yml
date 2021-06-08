@@ -6,4 +6,4 @@
   # sudo: yes
 
   roles:
-    - mariadb
+    - mariadb-galaxy
