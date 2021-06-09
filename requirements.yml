@@ -1,3 +1,2 @@
-- src: https://github.com/sriram-ph/mariadb
+- src: https://github.com/sriram-ph/mariadb.git
   name: mariadb
-
