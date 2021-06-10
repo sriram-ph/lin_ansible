@@ -1,0 +1,6 @@
+---
+- name: Printing Apache
+  hosts: all
+  gather_facts: true
+  roles:
+    - apache

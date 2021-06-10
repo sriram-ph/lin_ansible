@@ -1,0 +1,7 @@
+---
+- name: Printing Both
+  hosts: all
+  gather_facts: true
+  roles:
+    - java
+    - apache

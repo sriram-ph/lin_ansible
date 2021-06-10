@@ -1,0 +1,6 @@
+---
+- name: Printing Java
+  hosts: all
+  gather_facts: true
+  roles:
+    - java
